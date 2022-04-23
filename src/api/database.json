@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Saeta",
+      "lastName": "Fogosa",
+      "e_mail": "fogosa@gmail.com"
+    },
+    {
+      "id": 1,
+      "name": "YaniMize",
+      "lastName": "Betword",
+      "e_mail": "betword@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Soraya",
+      "lastName": "Gueza",
+      "e_mail": "gueza@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Matt",
+      "lastName": "Wahtson",
+      "e_mail": "wahtson@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Harry",
+      "lastName": "Potter",
+      "e_mail": "potter@gmail.com"
+    },
+    {
+      "id": 1650680748728,
+      "name": "Esteban",
+      "lastName": "Rodríguez Giraldo",
+      "e_mail": "estebanrg15@hotmail.com"
+    },
+    {
+      "id": 1650681386127,
+      "name": "Alexandra Maria",
+      "lastName": "Garcia",
+      "e_mail": "alexa67@gmail.com"
+    }
+  ]
+}
